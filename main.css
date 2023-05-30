@@ -478,6 +478,7 @@ footer>div:nth-child(1)>div div {
     gap: 15px;
     align-items: center;
     margin-bottom: 20px;
+    color: black;
 }
 
 footer>div:nth-child(1)>div div span {
