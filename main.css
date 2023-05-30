@@ -852,4 +852,17 @@ footer>div:nth-child(3) a {
     .services>div div {
         gap: 0px;
     }
+
+    footer>div:nth-child(1)>div {
+        width: 89%;
+    }
+
+    .mini-info h1 {
+        font-size: 40px;
+    }
+
+    .mini-info p {
+        font-size: 20px;
+    }
+
 }
