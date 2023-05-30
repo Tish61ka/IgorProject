@@ -844,4 +844,12 @@ footer>div:nth-child(3) a {
     footer>div:nth-child(1) {
         padding-right: 0;
     }
+
+    .services>div {
+        gap: 50px;
+    }
+
+    .services>div div {
+        gap: 0px;
+    }
 }
